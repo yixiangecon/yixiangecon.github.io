@@ -1,0 +1,61 @@
+---
+title: ""
+toc: false
+---
+
+Some Happiness Snapshots During My Ph.D.
+
+::: {.grid}
+
+::: {.g-col-3}
+![](images/Friend1.JPG){style="width: 100%; object-fit: cover; border-radius: 8px;"}
+:::
+
+::: {.g-col-3}
+![](images/Friend2.JPG){style="width: 100%; object-fit: cover; border-radius: 8px;"}
+:::
+
+::: {.g-col-3}
+![](images/Painting6.jpg){style="width: 100%; object-fit: cover; border-radius: 8px;"}
+:::
+
+::: {.g-col-3}
+![](images/Painting10.jpg){style="width: 100%; object-fit: cover; border-radius: 8px;"}
+:::
+
+::: {.g-col-3}
+![](images/dog1.JPG){style="width: 100%; object-fit: cover; border-radius: 8px;"}
+:::
+
+::: {.g-col-3}
+![](images/dog3.JPG){style="width: 100%; object-fit: cover; border-radius: 8px;"}
+:::
+
+::: {.g-col-3}
+![](images/Friend10.JPG){style="width: 100%; object-fit: cover; border-radius: 8px;"}
+:::
+
+::: {.g-col-3}
+![](images/Friend17.jpg){style="width: 100%; object-fit: cover; border-radius: 8px;"}
+:::
+
+::: {.g-col-3}
+![](images/Hiking1.jpg){style="width: 100%; object-fit: cover; border-radius: 8px;"}
+:::
+
+::: {.g-col-3}
+![](images/Hiking2.JPG){style="width: 100%; object-fit: cover; border-radius: 8px;"}
+:::
+
+::: {.g-col-3}
+![](images/hiking4.jpg){style="width: 100%; object-fit: cover; border-radius: 8px;"}
+:::
+
+::: {.g-col-3}
+<div style="display: flex; flex-direction: column; gap: 10px;">
+  ![](images/hiking5.jpg){style="width: 100%; object-fit: cover; border-radius: 8px;"}
+  ![](images/Hiking3.jpg){style="width: 100%; object-fit: cover; border-radius: 8px;"}
+</div>
+:::
+
+:::

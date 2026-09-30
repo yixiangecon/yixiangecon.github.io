@@ -4,36 +4,26 @@ project:
   
 website:
   page-navigation: true
-  title: "Yujun Lian"
-  site-url: https://lianyujun.github.io
+  title: "Yi XIANG"
+  site-url: https://yixiangecon.github.io
   favicon: images/site-logo.png
-  repo-url: https://github.com/lianyujun/lianyujun.github.io
-  repo-actions: [edit, issue]
-  
+
   page-footer:
     left: |
-      [lianxh.cn](https://www.lianxh.cn)<br>
-    right: |
-      Made with [Quarto](https://quarto.org/)<br>
-    
-  navbar: 
+      &copy; Yi XIANG<br>
+
+  navbar:
     background: "#A9CCE3"
     search: true
-    right: 
+    right:
       - text: "Home"
         href: index.qmd
-      - text: "Publications"
-        href: publications.qmd
-      - text: "Books"
-        href: books.qmd
-      - text: "Blogs"
-        href: blog.qmd
-      - text: "Codes"
-        href: codes.qmd
-      - text: "中文"
-        href: Chinese.qmd
+      - text: "Research"
+        href: research.qmd
       - text: "CV"
-        href: CV.pdf
+        href: CV.md
+      - text: "Personal"
+        href: personal.qmd
 
 format:
   html:
