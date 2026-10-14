@@ -9,7 +9,6 @@ toc: false
 
 **Presentations:**
 
-- **2027:** Beijing Normal University (Zhuhai); SUFE; University of Tsukuba
 - **2026:** Asian and Australasian Society of Labour Economics Conference (PKU, Beijing); ES Australasia Meeting (Adelaide University, Adelaide); Asian SPACE Workshop (SJTU-HKUST, HK); Jobs and Development Conference (HKUST, HK); CES Annual Meeting (SUFE, Chengdu); ES North American Summer Meeting (Emory University, Atlanta); Xi'an Jiaotong University; RCEA International Conference on Economics, Econometrics, and Finance (Universidad Pontificia de Comillas, Madrid); PhD Brownbag (HKU)
 - **2022-2025:** PhD Brownbag (×2, HKU); Graduate Seminar (HKU)
 
@@ -48,10 +47,8 @@ Farmers may damper from the labor shortage in agricultural production, incentivi
 ### **<span style="font-size: 16px;">Market Access and Product Design: Evidence from South Korea, with Yameng Fan</span>**
 
 ---
-
-### **<span style="font-size: 16px;">Adapt to Local Conditions or Blindly Follow the Crowd? Evidence from a Subsidy Policy in China</span>**
-
 <!--
+### **<span style="font-size: 16px;">Adapt to Local Conditions or Blindly Follow the Crowd? Evidence from a Subsidy Policy in China</span>**
 
 ### **<span style="font-size: 16px;">Global Effect of Technology Transfer, Licensing, and Innovation</span>**
 
