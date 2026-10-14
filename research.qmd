@@ -5,12 +5,12 @@ toc: false
 
 ## **<span style="font-size: 20px;">Working Paper</span>**
 
-### **<span style="font-size: 18px;">Agricultural Mechanization Under Migration (Job Market Paper)</span>**
+### **<span style="font-size: 18px;">Migration and Mechanized Agriculture (Job Market Paper)</span>**
 
 **Presentations:**
 
-- **2027:** Beijing Normal University (Zhuhai); SUFE
-- **2026:** The 18th International Symposium on Human Capital and Labor Markets (CUFE, Beijing); Asian and Australasian Society of Labour Economics Conference (PKU, Beijing); ES Australasia Meeting (Adelaide University, Australia); Asian SPACE Workshop (SJTU-HKUST, HK); Jobs and Development Conference (HKUST, HK); CES Annual Meeting (SUFE, Chengdu); ES North American Summer Meeting (Emory University,US); Xi'an Jiaotong University; RCEA International Conference on Economics, Econometrics, and Finance (Universidad Pontificia de Comillas, Spain); PhD Brownbag (HKU)
+- **2027:** Beijing Normal University (Zhuhai); SUFE; University of Tsukuba
+- **2026:** Asian and Australasian Society of Labour Economics Conference (PKU, Beijing); ES Australasia Meeting (Adelaide University, Adelaide); Asian SPACE Workshop (SJTU-HKUST, HK); Jobs and Development Conference (HKUST, HK); CES Annual Meeting (SUFE, Chengdu); ES North American Summer Meeting (Emory University, Atlanta); Xi'an Jiaotong University; RCEA International Conference on Economics, Econometrics, and Finance (Universidad Pontificia de Comillas, Madrid); PhD Brownbag (HKU)
 - **2022-2025:** PhD Brownbag (×2, HKU); Graduate Seminar (HKU)
 
 <details>
@@ -20,11 +20,11 @@ Farmers may damper from the labor shortage in agricultural production, incentivi
 
 </details>
 
-### **<span style="font-size: 18px;">Farm Problem, with Xiaodong Zhu, Yameng Fan, Jiaze Li</span>** <span style="font-size: 16px; font-style: italic; color: black; font-weight: normal;">(Draft available upon request)</span>
+### **<span style="font-size: 18px;">The Farm Problem, with Xiaodong Zhu, Yameng Fan, Jiaze Li</span>** <span style="font-size: 16px; font-style: italic; color: black; font-weight: normal;">(Draft available upon request)</span>
 
 **Presentations:**
 
-- **2026:** 1st Altitude Conference on Growth and Development (Xizang University, Lsaha); CES Presidential Forum 2026 (UIBE, Beijing); Huazhong University of Science and Technology (HUST, Wuhan)
+- **2026:** 1st Altitude Conference on Growth and Development (Xizang University, Lsaha); CES Presidential Forum 2026 (UIBE, Beijing); Huazhong University of Science and Technology (HUST, Wuhan); Asian SPACE Workshop (SJTU-HKUST, HK)
 
 <details>
 <summary>Abstract</summary>
