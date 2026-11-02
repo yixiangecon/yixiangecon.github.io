@@ -3,7 +3,7 @@ title: ""
 toc: false
 ---
 
-**Working Paper**
+## **<span style="font-size: 20px; font-family: 'Lato', sans-serif;">Working Paper</span>**
 
 **Migration and Mechanized Agriculture (Job Market Paper)**
 
@@ -34,7 +34,7 @@ Farmers may damper from the labor shortage in agricultural production, incentivi
 
 ---
 
-**Selected Work in Progress**
+## **<span style="font-size: 20px; font-family: 'Lato', sans-serif;">Selected Work in Progress</span>**
 
 **The US-China Technology Transfer and Economic Growth, with Jun Li**
 
