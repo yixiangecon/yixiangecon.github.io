@@ -1,6 +1,7 @@
 ---
 title: ""
 toc: false
+description: "Some happiness snapshots from Yi XIANG's Ph.D. journey - personal photos and memories."
 ---
 
 Some Happiness Snapshots During My Ph.D.

@@ -1,5 +1,6 @@
 ---
 title: ""
+description: "Yi XIANG (向意) - Economics Ph.D. candidate at HKU. Research interests: Macroeconomics, Economic Development, Chinese Economy, Labor Economics, structural transformation, technology adoption, agriculture, and migration. On the job market in 2027-2028."
 ---
 
 ::: {.grid style="--bs-gutter-x: 300px; width: 95%; max-width: 1600px; margin: 0 auto; padding: 80px 0 0 0;"}

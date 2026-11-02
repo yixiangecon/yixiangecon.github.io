@@ -1,6 +1,7 @@
 ---
 title: ""
 toc: false
+description: "Yi XIANG's research papers: Migration and Mechanized Agriculture (Job Market Paper), The Farm Problem, The US-China Technology Transfer and Economic Growth, and Market Access and Product Design. Research interests in Macroeconomics, Economic Development, Chinese Economy, Labor Economics, structural transformation, technology adoption, trade, and agricultural development."
 ---
 
 ## **<span style="font-size: 22px; font-family: 'Lato', sans-serif;">Working Paper</span>**

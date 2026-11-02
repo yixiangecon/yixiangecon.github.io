@@ -1,12 +1,23 @@
 project:
   type: website
   output-dir: docs
-  
+
 website:
   page-navigation: true
   title: "Yi XIANG"
   site-url: https://yixiangecon.github.io
   favicon: images/site-logo.png
+  description: "Yi XIANG (向意) - Economics Ph.D. candidate at HKU. Research interests: Macroeconomics, Economic Development, Chinese Economy, Labor Economics, structural transformation, technology adoption, trade, agriculture, and migration."
+  twitter-card:
+    image: images/yi_xiang.jpg
+    title: "Yi XIANG - Economics Ph.D. Candidate"
+    description: "Economics Ph.D. candidate at HKU. Research interests in Macroeconomics, Economic Development, Chinese Economy, structural transformation, technology adoption, trade, and agricultural development."
+    site: "@xiangyiecon"
+  open-graph:
+    image: images/yi_xiang.jpg
+    title: "Yi XIANG - Economics Ph.D. Candidate"
+    description: "Economics Ph.D. candidate at HKU. Research interests in Macroeconomics, Economic Development, Chinese Economy, structural transformation, technology adoption, trade, and agricultural development."
+    locale: en_US
 
   page-footer:
     left: |
@@ -31,3 +42,7 @@ format:
     toc: true            # 启用目录
     toc-position: right  # 将目录放置在页面的右侧
     toc-depth: 3         # 设置目录的深度，数字越大，目录越详细
+    html-math-method:
+      method: mathjax
+    include-in-header:
+      - file: head.html
