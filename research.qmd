@@ -3,9 +3,9 @@ title: ""
 toc: false
 ---
 
-## **<span style="font-size: 20px;">Working Paper</span>**
+**Working Paper**
 
-### **<span style="font-size: 18px;">Migration and Mechanized Agriculture (Job Market Paper)</span>**
+**Migration and Mechanized Agriculture (Job Market Paper)**
 
 **Presentations:**
 
@@ -19,7 +19,7 @@ Farmers may damper from the labor shortage in agricultural production, incentivi
 
 </details>
 
-### **<span style="font-size: 18px;">The Farm Problem, with Xiaodong Zhu, Yameng Fan, Jiaze Li</span>** <span style="font-size: 16px; font-style: italic; color: black; font-weight: normal;">(Draft available upon request)</span>
+**The Farm Problem, with Xiaodong Zhu, Yameng Fan, Jiaze Li** *<span style="font-style: italic; color: black; font-weight: normal;">(Draft available upon request)</span>*
 
 **Presentations:**
 
@@ -34,9 +34,9 @@ Farmers may damper from the labor shortage in agricultural production, incentivi
 
 ---
 
-## **<span style="font-size: 20px;">Selected Work in Progress</span>**
+**Selected Work in Progress**
 
-### **<span style="font-size: 16px;">The US-China Technology Transfer and Economic Growth, with Jun Li</span>**
+**The US-China Technology Transfer and Economic Growth, with Jun Li**
 
 **Presentations:**
 
@@ -44,7 +44,7 @@ Farmers may damper from the labor shortage in agricultural production, incentivi
 
 ---
 
-### **<span style="font-size: 16px;">Market Access and Product Design: Evidence from South Korea, with Yameng Fan</span>**
+**Market Access and Product Design: Evidence from South Korea, with Yameng Fan**
 
 ---
 <!--
