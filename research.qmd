@@ -5,7 +5,7 @@ toc: false
 
 ## **<span style="font-size: 20px; font-family: 'Lato', sans-serif;">Working Paper</span>**
 
-**<span style="font-size: 18px; font-family: 'Lato', sans-serif; font-weight: bold;">Migration and Mechanized Agriculture (Job Market Paper)</span>**
+**<span style="font-size: 18px; font-family: 'Lato', sans-serif; font-weight: bold;">Migration and Mechanized Agriculture</span>** *<span style="font-size: 18px; font-family: 'Lato', sans-serif; font-style: italic;">(Job Market Paper)</span>*
 
 **Presentations:**
 
