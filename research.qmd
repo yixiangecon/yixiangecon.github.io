@@ -19,7 +19,7 @@ Farmers may damper from the labor shortage in agricultural production, incentivi
 
 </details>
 
-**<span style="font-size: 18px; font-family: 'Lato', sans-serif; font-weight: bold; color: #632e0d;">The Farm Problem</span>** <span style="font-size: 14px; font-family: 'Lato', sans-serif; font-weight: normal; color: black;">with <a href="https://www.xiaodongzhu.net" target="_blank" style="color: #d9534f; text-decoration: none;">Xiaodong Zhu</a>, <a href="https://yameng-fan.github.io" target="_blank" style="color: #d9534f; text-decoration: none;">Yameng Fan</a>, Jiaze Li</span> *<span style="font-size: 14px; font-family: 'Lato', sans-serif; font-style: italic; color: black; font-weight: normal;">(Draft available upon request)</span>*
+**<span style="font-size: 18px; font-family: 'Lato', sans-serif; font-weight: bold; color: #632e0d;">The Farm Problem</span>** <span style="font-size: 14px; font-family: 'Lato', sans-serif; font-weight: normal; color: black;">with <a href="https://www.xiaodongzhu.net" target="_blank" style="color: #0066cc; text-decoration: none;">Xiaodong Zhu</a>, <a href="https://yameng-fan.github.io" target="_blank" style="color: #0066cc; text-decoration: none;">Yameng Fan</a>, Jiaze Li</span> *<span style="font-size: 14px; font-family: 'Lato', sans-serif; font-style: italic; color: black; font-weight: normal;">(Draft available upon request)</span>*
 
 **Presentations:**
 
@@ -44,7 +44,7 @@ Farmers may damper from the labor shortage in agricultural production, incentivi
 
 ---
 
-**<span style="font-size: 18px; font-family: 'Lato', sans-serif; font-weight: bold; color: #632e0d;">Market Access and Product Design: Evidence from South Korea</span>** <span style="font-size: 14px; font-family: 'Lato', sans-serif; font-weight: normal; color: black;">with <a href="https://yameng-fan.github.io" target="_blank" style="color: #d9534f; text-decoration: none;">Yameng Fan</a></span>
+**<span style="font-size: 18px; font-family: 'Lato', sans-serif; font-weight: bold; color: #632e0d;">Market Access and Product Design: Evidence from South Korea</span>** <span style="font-size: 14px; font-family: 'Lato', sans-serif; font-weight: normal; color: black;">with <a href="https://yameng-fan.github.io" target="_blank" style="color: #0066cc; text-decoration: none;">Yameng Fan</a></span>
 
 ---
 <!--
